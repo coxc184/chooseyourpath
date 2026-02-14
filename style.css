@@ -1,0 +1,193 @@
+.oswald-<uniquifier> {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+
+
+
+
+body{
+
+
+
+
+}
+
+#options{
+
+position: relative;top: -400px;
+font-family: "Oswald";
+
+
+
+
+
+}
+
+#queen{
+
+position: relative;top: -40px;
+font-family: "Oswald";
+
+
+
+
+}
+
+#me{
+
+
+font-family: "Oswald";
+position: relative;top: -100px;
+width: 10px;
+
+}
+
+#lily{
+
+position: relative;top: -500px;
+width: 20px;
+
+
+
+}
+
+#flower{
+
+position: relative;top: 200px;
+width: 20px;
+height: 20px;
+
+}
+
+.hover-text {
+  color: rgb(0, 0, 0);
+  font-family: "Oswald";
+  position: relative; top: -100px;
+  transition: color 0.3s ease;
+  text-shadow: #95ff8793 1px 0 10px;
+}
+
+
+.hover-text:hover {
+  color: #6da950;
+}
+
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #388213; 
+}
+
+
+
+
+
+
+
+
+.ruins {
+  color: rgb(0, 0, 0);
+  font-family: "Oswald";
+  position: relative; top: -100px;
+  transition: color 0.3s ease;
+  text-shadow: #879dff93 1px 0 10px;
+}
+
+
+.ruins:hover {
+  color: hwb(215 35% 25%);
+}
+
+
+a {
+  color: black; 
+  text-decoration: none;
+}
+
+a:hover {
+  color: #230e7a; 
+}
+
+
+
+
+
+.sand {
+  color: rgb(0, 0, 0);
+  font-family: "Oswald";
+  position: relative;top: -100px;
+transition: color 0.3s ease;
+  text-shadow: #ffa15993 1px 0 10px;
+}
+
+
+.sand:hover {
+  color: lab(64% 21.01 51.51);
+}
+
+
+a {
+  color: black; 
+  text-decoration: none;
+}
+
+a:hover {
+  color: orange; 
+}
+
+
+
+
+
+.cursor{
+    position: relative;
+    width: 24em;
+    margin: 0 auto;
+    border-right: 2px solid rgba(255, 255, 255, 0.75);
+    font-size: 30px;
+    text-align: center;
+    white-space: nowrap;
+    overflow: hidden;
+    transform: translateY(-50%);   
+    font-family: "Oswald"; 
+    
+}
+
+.typewriter-animation {
+  animation: 
+    typewriter 5s steps(50) 1s 1 normal both, 
+    blinkingCursor 500ms steps(50) infinite normal;
+}
+@keyframes typewriter {
+  from { width: 0; }
+  to { width: 100%; }
+}
+@keyframes blinkingCursor{
+  from { border-right-color: rgba(255, 255, 255, 0.75); }
+  to { border-right-color: transparent; }
+}
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
