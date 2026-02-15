@@ -1,4 +1,4 @@
-.oswald-<uniquifier> {
+.oswald-uniquifier> {
   font-family: "Oswald", sans-serif;
   font-optical-sizing: auto;
   font-weight: <weight>;
@@ -69,6 +69,7 @@ height: 20px;
   position: relative; top: -100px;
   transition: color 0.3s ease;
   text-shadow: #95ff8793 1px 0 10px;
+  font-size: 25px;
 }
 
 
@@ -99,6 +100,7 @@ a:hover {
   position: relative; top: -100px;
   transition: color 0.3s ease;
   text-shadow: #879dff93 1px 0 10px;
+  font-size: 25px;
 }
 
 
@@ -126,6 +128,7 @@ a:hover {
   position: relative;top: -100px;
 transition: color 0.3s ease;
   text-shadow: #ffa15993 1px 0 10px;
+  font-size: 25px;
 }
 
 
