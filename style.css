@@ -43,6 +43,7 @@ font-family: "Oswald";
 font-family: "Oswald";
 position: relative;top: -100px;
 width: 10px;
+font-variant: small-caps;
 
 }
 
@@ -70,6 +71,7 @@ height: 20px;
   transition: color 0.3s ease;
   text-shadow: #95ff8793 1px 0 10px;
   font-size: 25px;
+  font-variant: small-caps;
 }
 
 
@@ -101,6 +103,7 @@ a:hover {
   transition: color 0.3s ease;
   text-shadow: #879dff93 1px 0 10px;
   font-size: 25px;
+  font-variant: small-caps;
 }
 
 
@@ -129,6 +132,7 @@ a:hover {
 transition: color 0.3s ease;
   text-shadow: #ffa15993 1px 0 10px;
   font-size: 25px;
+  font-variant: small-caps;
 }
 
 
@@ -161,6 +165,7 @@ a:hover {
     overflow: hidden;
     transform: translateY(-50%);   
     font-family: "Oswald"; 
+    font-variant: small-caps;
     
 }
 
